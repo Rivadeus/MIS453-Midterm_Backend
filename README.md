@@ -20,7 +20,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone[ [https://github.com/](https://github.com/)<YOUR_USERNAME>/sentimentscope-backend.git](https://github.com/Rivadeus/MIS453-Midterm_Backend.git](https://github.com/Rivadeus/MIS453-Midterm_Backend.git))
+git clone [https://github.com/Rivadeus/MIS453-Midterm_Backend.git](https://github.com/Rivadeus/MIS453-Midterm_Backend.git)
 cd MIS453-Midterm_Backend
 
 ### Install dependencies
@@ -56,3 +56,4 @@ Response:
   "label": "Positive",
   "confidence": 0.95
 }
+
